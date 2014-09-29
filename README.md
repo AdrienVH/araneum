@@ -1,9 +1,9 @@
 #constellation (pour OpenLayers 2)
 =============
 
-alveolus est une fonction JS permettant de dessiner tous les liens existants entre deux points, à partir d'une couche d'entités ponctuelles.
+constellation est une fonction JS permettant de dessiner tous les liens existants entre deux points, à partir d'une couche d'entités ponctuelles.
 
-`var result = constellation(couchePoints, coucheLiensAlveoles);`
+`var result = constellation(couchePoints, coucheLiens);`
 
 ![Screenshot](https://github.com/adrienvh/constellation/blob/master/doc/screenshot.png "Screenshot")
 
