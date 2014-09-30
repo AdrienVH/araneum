@@ -1,4 +1,4 @@
-function constellation(couchePoints, coucheLiens)
+function araneum(couchePoints, coucheLiens)
 {
 	// Construction des features (entités)
 	var liens = new Array();
