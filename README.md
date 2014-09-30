@@ -1,10 +1,10 @@
-#constellation (pour OpenLayers 2)
+#araneum (pour OpenLayers 2)
 
-constellation est une fonction JS permettant de dessiner tous les liens existants entre deux points, à partir d'une couche d'entités ponctuelles.
+araneum est une fonction JS permettant de dessiner tous les liens existants entre les couples de points, à partir d'une couche d'entités ponctuelles.
 
-`var result = constellation(couchePoints, coucheLiens);`
+`var result = araneum(couchePoints, coucheLiens);`
 
-![Screenshot](https://github.com/adrienvh/constellation/blob/master/doc/screenshot.png "Screenshot")
+![Screenshot](https://github.com/adrienvh/araneum/blob/master/doc/screenshot.png "Screenshot")
 
 ##couchePoints
 
